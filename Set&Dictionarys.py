@@ -124,3 +124,7 @@ https//docs.python.org/3/tutorial/
 
 
 >>> If_Else_statement
+
+C:\Users\Lenovo\Desktop\Python class\Python Code\ git add .
+git comment -m
+git push
